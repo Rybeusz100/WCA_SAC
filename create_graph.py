@@ -483,4 +483,4 @@ drawYears(cubers, draw)
 
 filename = f"SAC_graph_{EVENT_FULL}.png"
 img.save(filename)
-img.show()
+# img.show()
